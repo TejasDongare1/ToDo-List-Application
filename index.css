@@ -28,7 +28,7 @@ body {
 }
 
 .task-list li {
-    background-color: #f8e6b3;
+    background-color: yellow;
     padding: 10px;
     margin-bottom: 5px;
     border-radius: 2rem;
